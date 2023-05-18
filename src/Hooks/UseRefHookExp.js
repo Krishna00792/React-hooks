@@ -22,7 +22,7 @@ const useRefExample = () => {
       <br/>
       <h2> Typing: {firstName} </h2>
       <br/>
-      <h1>Component rendered {renderCount.current} times </h1>
+      <h1>Component rendereed {renderCount.current} times </h1>
     </div>
   );
 };
